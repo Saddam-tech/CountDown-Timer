@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "≈ --dist-dir ./dist"
+    "build": " --dist-dir ./dist"
   },
   "author": "Saddam Salokhiddinov",
   "license": "ISC",
